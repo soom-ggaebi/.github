@@ -98,7 +98,7 @@
 
 | 채팅 | 소지품 알림 |
 | :---: | :---: |
-| <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/chat.png" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/notification.png" width="300" /> |
+| <img src="https://github.com/soom-ggaebi/.github/blob/275a5077cad86f67a37e2846e6e9867117bdb71d/images/chat.jpg" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/notification.png" width="300" /> |
 
 -----
 
