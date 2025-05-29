@@ -76,29 +76,29 @@
 
 | 메인화면 |
 | :---: |
-| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/main.png" width="160" /> |
+| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/main.png" width="300" /> |
 
 #### 습득물 검색 및 상세조회
 
 | 지도 클러스터링 | 필터링 검색 |
 | :---: | :---: |
-| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_map.png" width="160" /> | <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_filter.png" width="160" /> |
+| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_map.png" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_filter.png" width="300" /> |
 
 | 상세 조회(숨숨파인더) | 상세 조회(경찰청) |
 | :---: | :---: |
-| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_detail_ssfinder.png" width="160" /> | <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_detail_lost112.png" width="160" /> |
+| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_detail_ssfinder.png" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/found_detail_lost112.png" width="300" /> |
 
 #### AI 이미지 분석 및 습득물 매칭
 
 | AI 이미지 분석 | 자동 정보 입력 | AI 습득물 매칭 |
 | :---: | :---: | :---: |
-| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/lost_image_processing.png" width="160" /> | <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/lost_add_image.png" width="160" /> | <img src="https://github.com/soom-ggaebi/.github/blob/bdd70fba6af690b9cbd1ac672f0bf35732d9bd84/images/found_recommend.png" width="160" />  |
+| <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/lost_image_processing.png" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/a9b860c046a78dbf367033e1bdb86a8a6aaaae96/images/lost_add_image.png" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/bdd70fba6af690b9cbd1ac672f0bf35732d9bd84/images/found_recommend.png" width="300" />  |
 
 #### 채팅 및 알림
 
 | 채팅 | 소지품 알림 |
 | :---: | :---: |
-| <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/chat.png" width="160" /> | <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/notification.png" width="160" /> |
+| <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/chat.png" width="300" /> | <img src="https://github.com/soom-ggaebi/.github/blob/3e5268a236ba6dbb979fd223cfbcd54de0ccf550/images/notification.png" width="300" /> |
 
 -----
 
