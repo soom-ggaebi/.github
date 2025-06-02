@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 ### AI
-<img src="https://img.shields.io/badge/Hugging face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"> 
+<img src="https://img.shields.io/badge/Hugging face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
 ### Data Processing
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"> <img src="https://img.shields.io/badge/apache hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
